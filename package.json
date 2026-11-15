@@ -6,7 +6,7 @@
   "type": "module",
   "license": "MIT",
   "author": "ankurk91",
-  "packageManager": "pnpm@12.4.2",
+  "packageManager": "pnpm@12.21.0",
   "engines": {
     "node": ">=24"
   },
